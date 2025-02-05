@@ -72,3 +72,19 @@ The graph shows the standard normal distribution with a mean of `0` and a standa
 
 ## V. Key Explanations
 
+- A two-sample Z-test was appropriate for comparing the click-through rates (CTRs) between the control and experimental groups. The large sample sizes (`10,000` per group) ensure the sampling distribution of the sample proportion approximates a normal distribution, regardless of the population distribution's shape. This justifies the use of the Z-statistic in hypothesis testing.
+
+- We found a very low p-value close to `0`, indicating strong evidence against the null hypothesis. At all common significance levels, we rejected the null hypothesis. In contrast, a high p-value (`0.05` or more) indicates weak evidence against the null hypothesis.
+
+- The `95%` CI of `0.399` to `0.426` gives a range of values within which the true difference between the experimental and control group click-through rates (CTRs) is likely to lie with `95%` confidence. A narrower interval indicates higher precision.
+
+
+## VI. Conclusion
+
+- We found a statistically significant difference in CTR between the experimental ("Enroll Now") and control ("Secure Free Trial") buttons at the `5%` significance level, meaning the observed difference is unlikely due to chance.
+
+- We also found a practically significant difference in CTR between the experimental and control versions at the `10%` minimum detectable effect (MDE).
+
+- Since the click probability estimate in the experimental group is higher than in the control group, we conclude that the experimental button resulted in a statistically significantly higher CTR.
+
+- From a business perspective, this statistically significant difference is large enough to justify changing the button for all users, expecting an increase in user engagement.
