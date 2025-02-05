@@ -61,3 +61,14 @@ We used a sufficiently large, random sample to ensure the results represent the 
 
 ## IV. Key Visualizations
 
+![Total Clicks](https://github.com/user-attachments/assets/bda8fc17-008b-4684-a16d-c1d36bbdef7d)
+
+As shown, `61.16%` of users clicked in the experimental group, compared to only `19.89%` in the control group. Hypothesis testing confirmed that this difference is statistically significant and not due to chance.
+
+![Statistical Significance](https://github.com/user-attachments/assets/afef3345-1460-4eac-ac7e-5fc637fc0cf2)
+
+The graph shows the standard normal distribution with a mean of `0` and a standard deviation of `1`. The rejection regions are located before and after the Z-critical values of `-1.96` and `1.96`, respectively. Since the Z-statistic is `-59.44`, well beyond the critical value of `-1.96`, we rejected the null hypothesis.
+
+
+## V. Key Explanations
+
