@@ -44,4 +44,20 @@ We used a sufficiently large, random sample to ensure the results represent the 
 - **timestamp:** Click date and time for the "exp" group (Jan `1-7`, `2024`) at minute-level precision.
 
 
-## III. 
+## III. Key Steps
+
+- We imported the necessary libraries and loaded the dataset from a CSV file.
+
+- We explored the data using summary statistics, plotted total clicks and non-clicks for each group, and annotated bars with click and non-click percentages.
+
+- We set the significance level at `α = 0.05` to control Type I errors (false positives) and the minimum detectable effect at `δ = 0.1`, as the business required at least a `10%` CTR increase to justify implementation.
+
+- We calculated total users and clicks per group, estimated click probabilities, pooled click probability, and pooled click variance.
+
+- We determined the standard error, Z-statistic, and Z-critical value, then assessed statistical significance using the p-value and a standard normal distribution plot.
+
+- Finally, we checked practical significance using a `95%` confidence interval.
+
+
+## IV. Key Visualizations
+
