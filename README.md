@@ -1,2 +1,14 @@
-# Python-Case-Study-AB-Testing-for-LunarTech-Homepage-CTA-Button
-This repository contains a detailed case study on an A/B test of LunarTech's homepage CTA button, using proxy data structured similarly to the company's real data.
+# Python Case Study: A/B Testing for LunarTech Homepage's CTA Button
+
+
+## Table of Contents
+- [I. Introduction](#I.-Introduction)
+- [II. Hypotheses & Dataset Overview](#II.-Hypotheses-&-Dataset-Overview)
+- [III. Key Steps](#III.-Key-Steps)
+- [IV. Key Visualizations](#IV.-Key-Visualizations)
+- [V. Key Explanations](#V.-Key-Explanations)
+- [VI. Conclusion](#VI.-Conclusion)
+
+
+## I. Introduction
+
